@@ -11,4 +11,6 @@ The folder 'functions' includes the necessary subroutine;
 
 'SRM_SIM_GPU.m' is the main algorithm to reconstruct a image in the GPU environment.
 
+'SRM_SIM_SpeckleMultifocal.m' is the main algorithm to reconstruct a image under speckle or multifocal illumination patters.
+
 [1] Shijie Tu et al., "High-speed spatially remodulated structured illumination microscopy," xx.xx.xx
