@@ -1,0 +1,8 @@
+% [empirical value] 
+ampPre = 1; % ranges from 0 to 1, depends on the background level of raw data, e.g. 1
+sgimaPre = 1; % positive number£¬e.g. 1
+ampPost = 0.75; % ranges from 0 to 1, depends on the background level of corvariance image, e.g. 1
+sgimaPost = 0.01; % positive number e.g. 0.01
+wnrFactorWF = 0.01; % wiener factor for pattern images pre-processing, positive number, e.g. 0.01
+wnrFactorSIM = 0.05; % wiener factor for SRM-SIM post-processing, positive number, e.g. 0.001
+shadingFactor = 0.001;% wiener factor for shading correction, positive number, e.g. 0.001

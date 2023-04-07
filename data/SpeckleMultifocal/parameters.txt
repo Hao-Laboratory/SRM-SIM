@@ -1,0 +1,4 @@
+M = 512; N = 512;
+pixelSize = 15.2nm; 
+lambdaEmi = 525; 
+NA = 1.49;

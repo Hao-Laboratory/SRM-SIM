@@ -1,0 +1,7 @@
+M = 512; N = 512;
+nPhase = 3; 
+nDir = 3;
+pixelSize = 65nm; 
+lambdaEmi = 525; 
+NA = 1.49;
+
