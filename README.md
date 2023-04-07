@@ -5,9 +5,9 @@ The method was proposed in the article "High-speed spatially re-modulated struct
 
 The folder 'data' includes the raw simulated and experimental images.
 
-The folder 'functions' includes the necessary subroutine;
+The folder 'functions' includes the necessary subroutine.
 
-The folder 'Simulations' includes the codes and results for simulation;
+The folder 'Simulations' includes the codes and results for simulation.
 
 'SRM_SIM_CPU.m' is the main algorithm to reconstruct a image in the CPU environment.
 
